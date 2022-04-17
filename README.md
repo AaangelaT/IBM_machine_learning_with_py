@@ -3,6 +3,9 @@ Coursera:
 - course: Machine learning with python
 - specialization: IBM AI engineering
 
-# week1 Intro to machine learning
-- study data: 2022-4-11
+# Week1 Intro to machine learning
+- Study date: 2022-4-11
 - Supervised learning v.s. Unsupervised learning
+
+# Week2 ReGression
+- Study date: 2022-4-11
