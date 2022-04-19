@@ -24,3 +24,21 @@ Coursera:
     - $$R A E =\frac{\sum_{j=1}^{n}\left|y_{j}-\hat{y}_{j}\right|}{\sum_{j=1}^{n}\left|y_{j}-\bar{y}\right|}$$
     - $$R S E =\frac{\sum_{j=1}^{n}\left(y_{j}-\hat{y}_{j}\right)^{2}}{\sum_{j=1}^{n}\left(y_{j}-\bar{y}\right)^{2}} $$
     - $$R^{2} =1-R S E$$
+
+- **Multiple linear regression**
+    - $\widehat{y}=\theta_{0}+\theta_{1} x_{1}+\theta_{2} x_{2}+...++\theta_{n} x_{n}$
+    - estimate $\theta$
+        - linear algebra operations → takes a long time
+        - optimization alogorithm → gradient descent → proper approach
+
+## Non-Linear Regression
+
+- Polynomial regression
+
+    $\hat{y}=\theta_0+\theta_1x+\theta_2x^2 +\theta_3x^3$  
+    
+    transformed into linear regresson 
+    
+    $\hat{y}=\theta_0+\theta_1x_1+\theta_2x_2 +\theta_3x_3$ 
+
+- non-linear regression
